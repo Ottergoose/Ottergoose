@@ -6,5 +6,5 @@ I'm not doing a super great job at collaborating at the moment, but have helped 
 
 ## Currently spending time working on...
 - [JetTip](https://jettip.net), a commercial alert service for aviation enthusiasts
-- [MilAir.Tips](https://milair.tips), an experimental Twitterbot network tracking military aircraft
+- [MilAir.Tips](https://milair.tips), an experimental ~~Twitterbot~~ (Mastodon, eventuaully, maybe?) network tracking military aircraft
 - [Railfan Atlas](https://railfanatlas.com), a railroad photography Flickr / Google Maps mashup
