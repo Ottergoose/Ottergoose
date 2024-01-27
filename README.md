@@ -11,4 +11,4 @@ I'm not doing a super great job at collaborating at the moment, but have helped 
 
 ## Providing financial support to
 - [ADSB.lol](https://www.adsb.lol/), an open source flight tracker that aggergates and shares flight data freely
-- [ADSB.im]([https://adsb.im/), an easy to use, open source interface for collecting and sharing flight data
+- [ADSB.im](https://adsb.im/), an easy to use interface for collecting and sharing flight data
