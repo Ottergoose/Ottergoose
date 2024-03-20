@@ -2,10 +2,10 @@
 
 [I'm Nick Benson, an aviation geek, train buff, and photography nerd from Burnsville, MN](https://ottergoose.net).
 
-## Currently spending time working on:
+## Currently working on
 - [JetTip](https://jettip.net), a commercial alert service for aviation enthusiasts
 
-## Desperately need to spend some time updating:
+## In desperate need of attention
 - [MilAir.Tips](https://milair.tips), an experimental ~~Twitterbot~~ (Mastodon/Discord, eventuaully, maybe?) network tracking military aircraft
 - [Railfan Atlas](https://railfanatlas.com), a railroad photography Flickr / Google Maps mashup
 
