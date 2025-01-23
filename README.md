@@ -4,7 +4,7 @@
 
 ## Currently working on
 - [JetTip](https://jettip.net), a commercial alert service for aviation enthusiasts
-- [Railfan Atlas](https://railfanatlas.com), a beautiful map to Flickr's railraod photography
+- [Railfan Atlas](https://railfanatlas.com), a beautiful map interface for exploring Flickr's railraod photography
 
 ## In desperate need of attention
 - [MilAir.Tips](https://milair.tips), an experimental ~~Twitterbot~~ (Mastodon/Discord/Bluesky?)bot for tracking military aircraft
